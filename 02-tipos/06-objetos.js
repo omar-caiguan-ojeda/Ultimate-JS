@@ -1,3 +1,4 @@
+//* DATO DE REFERENCIA
 // Personaje de TV
 
 let nombre = "Tanjiro";

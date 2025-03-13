@@ -1,18 +1,11 @@
 // comentario
 
 /*
-
-C
-O
-M
-E
-N
-T
-A
-R
-I
-O
-
+ESTO 
+ES UN 
+BLOQUE
+DE 
+COMENTARIO
 */
 
 let numero = 42;
