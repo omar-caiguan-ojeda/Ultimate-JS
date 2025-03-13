@@ -8,6 +8,8 @@ console.log(saludo);
 //* En las constante no cabia su valor
 //! Si se intenta cambiar el valor de una constante, se generará un error
 const bienvenida = "Hola Mundo";
-nombre = "chanchito feliz"; // Da ERROR
+//bienvenida = "Otro saludo";
+
+nombre = "chanchito feliz";
 
 console.log(`${bienvenida} ${nombre}`);
