@@ -11,3 +11,4 @@ let nombre = 'Omar Leonardo';
 let edad = 37;
 
 console.log("Soy " + nombre + " " + apellido + " y tengo " + edad + " años");
+console.log(`Soy ${nombre} ${apellido} y tengo ${edad} años`);
