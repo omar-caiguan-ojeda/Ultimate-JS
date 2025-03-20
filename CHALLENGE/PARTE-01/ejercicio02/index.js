@@ -5,3 +5,14 @@ function invertirCadena(cadena) { // Define una función que toma una cadena 'ca
 } // Cierra la función
 
 console.log(invertirCadena('Hola Mundo')); // 'odnuM aloH'
+
+
+
+/* Función que invierte un array de letras */
+
+function reverseLetras(input) {
+    return input.reverse();
+}
+const letras = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j']; // Define un array 'letras' con 10 elementos
+
+console.log(reverseLetras(letras)); // ['j', 'i', 'h', 'g', 'f', 'e', 'd', 'c', 'b', 'a']
